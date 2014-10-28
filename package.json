@@ -1,0 +1,23 @@
+{
+  "name": "NodeChat",
+  "version": "1.0.0",
+  "description": "Create a chat room using sockets with node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:EllaNancyFay/NodeChat.git"
+  },
+  "author": "Ella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EllaNancyFay/NodeChat/issues"
+  },
+  "homepage": "https://github.com/EllaNancyFay/NodeChat",
+  "dependencies": {
+    "express": "^4.10.0",
+    "socket.io": "^1.2.0"
+  }
+}
